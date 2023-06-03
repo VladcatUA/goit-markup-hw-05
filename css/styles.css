@@ -624,11 +624,11 @@ img {
 }
 
 .portfolio-cardsbackground:hover .portfolio-cover-text {
-    transform: translateY(0);
+    transform: translateY(0%);
 }
 
 .portfolio-cardsbackground:focus {
-    transform: translateY(0);
+    transform: translateY(0%)
 }
 
 .cardslink {
