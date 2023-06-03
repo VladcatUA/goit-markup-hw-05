@@ -623,8 +623,8 @@ img {
     width: calc((100% - 48px) / 3);
 }
 
-.portfolio-cardsbackground:focus .portfolio-cover-text,
-.portfolio-cardsbackground:hover .portfolio-cover-text {
+.portfolio-cardsbackground:hover .portfolio-cover-text,
+.portfolio-cardsbackground:focus .portfolio-cover-text {
     transform: translateY(0);
 }
 
